@@ -1,8 +1,8 @@
 # Hello-world
 
-##first repository
+## first repository
  
-- terminologia GIT- sistema de control de versiones
+- **terminologia GIT**- sistema de control de versiones
 - repositorio- todo proyecto seguido por git osea que ya tiene un historial de git en el que se estan registrando cambios
 - commit- cada una de los cambios que a hecho (y motivo)
 - rama- ramificaciones, bifurcaciones que toma el nuevo proyecto/ hay una principal que se llama master que es la que esta al publico y se sacar ramas para modificarla
